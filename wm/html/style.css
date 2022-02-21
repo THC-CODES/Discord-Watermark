@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Achtung';
+    src: url("Achtung!-Polizei.otf");
+}
+
+h1 {
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+    font-size: 25px;
+    text-shadow: 0 0 4px #ffffff, 0 0 2px #000000;
+    font-family: 'Achtung';
+}
